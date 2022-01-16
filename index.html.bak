@@ -1,0 +1,30 @@
+  <html>
+	<head>
+		<title>My HTML</title>
+		<link rel="stylesheet" href=".\style\style.css">
+	</head>
+	<body bgcolor="#f234f6" text="blue">
+		<p color="red"><center>Some text is here</center></p>
+		<img id="someimage" height="200" src=".\img\image.jpg" alt="альтернативный текст" />
+		<img height="200" src="https://bit.ly/3lJmKVI" alt="альтернативный текст" />
+		<table border="2">
+			<tr>
+				<td class="someclass">1</td>
+				<td class="someclass">2</td>
+			</tr>
+		</table>
+		<div>
+			<table border="2">
+				<tr>
+					<td>1</td>
+					<td>2</td>
+				</tr>
+			</table>
+		</div>
+		<ul>
+			<li>aaa</li>
+			<li>aaa</li>
+			<li>aaa</li>
+		</ul>
+	</body>
+</html>
